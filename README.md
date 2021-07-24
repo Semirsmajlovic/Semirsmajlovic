@@ -1,10 +1,7 @@
 ### Hi there, I'm Semir Smajlovic 👋
 
-These people are the coolest:  
+For each visitor, we plant another line of code:  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Semirsmajlovic}.${git@github.com:Semirsmajlovic/Semirsmajlovic.git})
-
-What about the stats?:  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Semirsmajlovic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 A little about me...  
 ```JavaScript
