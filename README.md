@@ -1,6 +1,7 @@
 ### Hi there, I'm Semir Smajlovic 👋
 
-I only have this many friends? Let's bump this up ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Semirsmajlovic}.${git@github.com:Semirsmajlovic/Semirsmajlovic.git})
+These people are the coolest:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${Semirsmajlovic}.${git@github.com:Semirsmajlovic/Semirsmajlovic.git})
 
 <!--
 **Semirsmajlovic/Semirsmajlovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
