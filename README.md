@@ -1,6 +1,6 @@
 ### Hi there, I'm Semir Smajlovic 👋
 
-These people are the coolest:
+These people are the coolest:  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Semirsmajlovic}.${git@github.com:Semirsmajlovic/Semirsmajlovic.git})
 
 <!--
