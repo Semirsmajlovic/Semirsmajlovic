@@ -3,7 +3,7 @@
 For each visitor, we plant another line of code:  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${Semirsmajlovic}.${git@github.com:Semirsmajlovic/Semirsmajlovic.git})
 
-A little about me...  
+#### A little about me...  
 ```JavaScript
 const bosnian = {
     fluent_languages: ['Bosnian', 'English', 'Memes'],
